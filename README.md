@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE">
+    <a href="https://mrfishpl.github.io/devchallenges.io-404NotFound-MrFishPL/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://mrfishpl.github.io/devchallenges.io-404NotFound-MrFishPL/">
+    <a href="https://devchallenges.io/solutions/HY19948dEmntOwxRYl2h">
       Solution
     </a>
     <span> | </span>
@@ -40,7 +40,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?<br>
-  Sorry but I realy don't know writing "demo" :P The project is [here](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE)
+  [here](https://mrfishpl.github.io/devchallenges.io-404NotFound-MrFishPL/)
 - What was your experience?<br>
   It wasn't very hard. I had a lot of fun doing this challenge. The layout was interesting and the colors and the image were really pleasing to the eye.
 - What have you learned/improved?<br>
