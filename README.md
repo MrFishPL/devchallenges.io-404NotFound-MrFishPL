@@ -39,13 +39,13 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo?<br>
   Sorry but I realy don't know writing "demo" :P The project is [here](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE)
-- What was your experience?
+- What was your experience?<br>
   It wasn't very hard. I had a lot of fun doing this challenge. The layout was interesting and the colors and the image were really pleasing to the eye.
-- What have you learned/improved?
+- What have you learned/improved?<br>
   I've improved my flexbox and doing responsive website skills (the layout was very simple but interesting).
-- Your wisdom? :)
+- Your wisdom? :)<br>
   I wanna do other challenges because now I'm very excited and motivated :D
 
 ### Built With
